@@ -1,0 +1,34 @@
+# Unity
+[LİBRARY VE TEMP DOSYALARI]
+Library/
+Temp/
+Obj/
+Build/
+Logs/
+MemoryCaptures/
+.vscode/
+.vs/
+UserSettings/
+
+# Sistem dosyaları
+.DS_Store
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity derleme dosyaları
+*.apk
+*.aab
+*.dll
+*.exe
+
+# Visual Studio
+*.csproj
+*.sln*
